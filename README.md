@@ -1,6 +1,6 @@
 # Object-recognition-on-images
-Simple application for recognizing objects in images
-Python 3.7.6
+Simple application for recognizing objects in images.
+Python version = 3.7.6.
 Project preparation and install ImageAI:
 https://imageai.readthedocs.io/en/latest/
 1) Tensorflow 2.4.0:
