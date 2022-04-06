@@ -10,5 +10,6 @@ pip install keras==2.4.3 numpy==1.19.3 pillow==7.0.0 scipy==1.4.1 h5py==2.10.0 m
 3) ImageAI:
 pip install imageai --upgrade
 
-The RetinaNet model can be found in the readme file at the link: https://github.com/OlafenwaMoses/ImageAI/tree/master/imageai/Detection
+The RetinaNet and YOLOv3 models can be found in the readme file at the link: https://github.com/OlafenwaMoses/ImageAI/tree/master/imageai/Detection
+
 
